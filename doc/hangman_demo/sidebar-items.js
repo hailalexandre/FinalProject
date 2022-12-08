@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["ALLOWED_ATTEMPTS",""]],"enum":[["GameProgress",""]],"fn":[["check_progress",""],["create_letters",""],["display_progress",""],["main",""],["read_user_input_character",""],["select_word",""]],"struct":[["Letter",""]]};
