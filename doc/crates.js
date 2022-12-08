@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["hangman_demo","libc","rand"];
